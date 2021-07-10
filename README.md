@@ -1,3 +1,2 @@
-# COMP397-W2021-Lesson7a
+# COMP397-s2021-Lab8
 
-Demo project for Week 7
